@@ -1,4 +1,7 @@
-p{
-    font-size: 40px;
-   text-align: center;
+button{
+    width: 6.5rem;
+    height: 3rem;
+    border: none;
+    border-radius: 15px;
+    margin-top: 10rem;
 }
